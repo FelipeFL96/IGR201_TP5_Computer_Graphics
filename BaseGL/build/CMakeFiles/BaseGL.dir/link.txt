@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/BaseGL.dir/Main.cpp.o CMakeFiles/BaseGL.dir/Mesh.cpp.o CMakeFiles/BaseGL.dir/Camera.cpp.o CMakeFiles/BaseGL.dir/Transform.cpp.o  -o BaseGL -rdynamic External/glad/libglad.a External/glfw/src/libglfw3.a -lrt -lm -ldl -lX11 -lpthread 
